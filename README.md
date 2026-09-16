@@ -1,6 +1,6 @@
 # Pi Tokyo Night Theme
 
-A [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme)-inspired color theme for the [Pi coding agent](https://github.com/earendil-works/pi).
+A color theme for the [Pi coding agent](https://github.com/earendil-works/pi) based on the Night variant of [Folke Lemaitre's Tokyo Night](https://github.com/folke/tokyonight.nvim).
 
 ## Install
 
