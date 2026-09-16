@@ -1,0 +1,21 @@
+{
+  "name": "pi-tokyo-night-theme",
+  "version": "1.0.0",
+  "description": "A Tokyo Night color theme for the Pi coding agent.",
+  "license": "MIT",
+  "keywords": [
+    "pi-package",
+    "pi-theme",
+    "tokyo-night"
+  ],
+  "files": [
+    "themes",
+    "README.md",
+    "LICENSE"
+  ],
+  "pi": {
+    "themes": [
+      "./themes"
+    ]
+  }
+}
